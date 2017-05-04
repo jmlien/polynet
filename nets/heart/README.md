@@ -19,4 +19,4 @@
 
 ## The net
 
-<img src="https://cdn.rawgit.com/jmlien/polynet/f3219028/nets/heart/Heart-215_cut.svg" width="800" alt="net">
+<img src="https://cdn.rawgit.com/jmlien/polynet/c2e45a1/nets/heart/Heart-215_cut.svg" width="800" alt="net">
