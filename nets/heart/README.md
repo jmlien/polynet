@@ -5,7 +5,7 @@
 
 ## Folding Instructions
 
-0. Download [the net](./heart-215_cut.svg)
+0. Download [the net](./Heart-215_cut.svg)
 1. Print and then cut the net. We use [cricut](https://home.cricut.com/) in all of our examples.
 2. Score the crease lines. 
 3. Crease the lines into moutain and valley folds. 
@@ -19,4 +19,4 @@
 
 ## The net
 
-<img src="https://cdn.rawgit.com/jmlien/polynet/f3219028/nets/heart_pendant/Heart-215_cut.svg" width="800" alt="net">
+<img src="https://cdn.rawgit.com/jmlien/polynet/f3219028/nets/heart/Heart-215_cut.svg" width="800" alt="net">
