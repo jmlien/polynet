@@ -1,7 +1,7 @@
 # Heart Pendant
 
-![Net](https://cdn.rawgit.com/jmlien/polynet/f3219028/nets/heart_pendant/Heart_Pendant_0_s1493262931_cut.svg)
-<img src="./Heart_Pendant-paper-model.jpg" width="300" alt="paper craft">
+<img src="https://cdn.rawgit.com/jmlien/polynet/f3219028/nets/heart_pendant/Heart_Pendant_0_s1493262931_cut.svg" width="600" alt="net">
+<img src="./Heart_Pendant-paper-model.jpg" width="200" alt="paper craft"> <img src="./Heart_Pendant.png" width="200" alt="model">
 
 
 ## Folding Instructions
