@@ -1,6 +1,10 @@
 # Heart Pendant
 
-How to fold: 
+![Net](https://cdn.rawgit.com/jmlien/polynet/f3219028/nets/heart_pendant/Heart_Pendant_0_s1493262931_cut.svg)
+<img src="./Heart_Pendant-paper-model.jpg" width="300" alt="paper craft">
+
+
+## Folding Instructions
 
 1. Print and then cut the outline. We use cricut in all of our examples.
 2. Score the crease lines. 
