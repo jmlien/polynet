@@ -1,6 +1,6 @@
 # Heart
 
-<img src="./Heart.png" width="300" alt="model"> <img src="./Heart-paper-model.jpg" width="300" alt="paper craft">
+<img src="./Heart.png" height="350" alt="model"> <img src="./Heart-paper-model.jpg" height="350" alt="paper craft">
 
 
 ## Folding Instructions
