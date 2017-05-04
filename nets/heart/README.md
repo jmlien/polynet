@@ -1,4 +1,4 @@
-# Heart Pendant
+# Heart
 
 <img src="./Heart.png" width="300" alt="model"> <img src="./Heart-paper-model.jpg" width="300" alt="paper craft">
 
