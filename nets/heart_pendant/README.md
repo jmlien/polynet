@@ -12,6 +12,6 @@
 5. Continue by finding another vertex and repeat the taping process.
 6. Tape the remaining edges by matching the cut edges marked with a short stroke. Two matching cut edges will have the short strokes coincide along the edge. 
 
-## the net
+## The net
 
 <img src="https://cdn.rawgit.com/jmlien/polynet/f3219028/nets/heart_pendant/Heart_Pendant_0_s1493262931_cut.svg" width="800" alt="net">
