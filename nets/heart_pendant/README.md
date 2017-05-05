@@ -2,6 +2,10 @@
 
 <img src="./Heart_Pendant.png" width="300" alt="model"> <img src="./Heart_Pendant-paper-model.jpg" width="300" alt="paper craft">
 
+## Information
+
+* 198 faces
+* Fabrication difficulty: 2/5
 
 ## Folding Instructions
 
