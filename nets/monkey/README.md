@@ -2,6 +2,11 @@
 
 <img src="./Monkey_2000.png" width="400" alt="model"> <img src="./monkey-2000-folded-01-white-bg.jpg" width="300" alt="paper craft">
 
+## Information
+
+* 2000 faces
+* Fabrication difficulty: 4/5
+* Fabrication time: 
 
 ## Folding Instructions
 
