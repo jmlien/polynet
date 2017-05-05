@@ -1,6 +1,6 @@
-# Monkey 5000
+# Monkey 2000
 
-<img src="./Monkey_2000.png" width="300" alt="model"> <img src="./monkey-2000-folded-01-white-bg.jpg" width="300" alt="paper craft">
+<img src="./Monkey_2000.png" width="400" alt="model"> <img src="./monkey-2000-folded-01-white-bg.jpg" width="300" alt="paper craft">
 
 
 ## Folding Instructions
