@@ -6,7 +6,7 @@
 
 * 144 faces
 * Fabrication difficulty: 2/5
-* Fabrication time: 22 minutes (with tape)
+* Fabrication time: 22 minutes for each net (with tape)
 
 ## Folding Instructions
 
