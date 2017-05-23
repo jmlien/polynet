@@ -1,6 +1,6 @@
 # Liver
 
-<img src="./Liver.png" height="350" alt="model"> <img src="./Liver-paper-model.jpg" height="350" alt="paper craft">
+<img src="./Liver.png" height="350" alt="model"> <img src="./Liver-paper-model.JPG" height="350" alt="paper craft">
 
 ## Information
 
@@ -24,4 +24,4 @@
 
 ## The net
 
-<img src="https://cdn.rawgit.com/jmlien/polynet/fc8ca95/nets/liver/Liver-274_cut.svg" width="800" alt="net">
+<img src="https://cdn.rawgit.com/jmlien/polynet/b040d8c/nets/liver/Liver-274_cut.svg" width="800" alt="net">

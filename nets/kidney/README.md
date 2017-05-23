@@ -25,4 +25,4 @@
 
 ## The net
 
-<img src="https://cdn.rawgit.com/jmlien/polynet/87872c2/nets/kidney/Kidney-172_cut.svg" width="800" alt="net">
+<img src="https://cdn.rawgit.com/jmlien/polynet/1620bb3/nets/kidney/Kidney-172_cut.svg" width="800" alt="net">
