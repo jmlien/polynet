@@ -1,6 +1,6 @@
 # Brain
 
-<img src="./Brain.png" height="350" alt="model"> <img src="./Brain-paper-model.jpg" height="350" alt="paper craft">
+<img src="./Brain.png" height="350" alt="model"> <img src="./Brain-paper-model.JPG" height="350" alt="paper craft">
 
 ## Information
 
