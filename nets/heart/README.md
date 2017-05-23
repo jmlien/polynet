@@ -6,6 +6,7 @@
 
 * 214 faces
 * Fabrication difficulty: 4/5
+* Fabrication time: 37 minutes (with tape)
 
 ## Folding Instructions
 
@@ -23,4 +24,4 @@
 
 ## The net
 
-<img src="https://cdn.rawgit.com/jmlien/polynet/d6ffe8e/nets/heart/Heart-214_cut.svg" width="800" alt="net">
+<img src="https://cdn.rawgit.com/jmlien/polynet/afc41117/nets/heart/Heart-214_cut.svg" width="800" alt="net">
