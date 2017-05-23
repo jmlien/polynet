@@ -24,4 +24,4 @@
 
 ## The net
 
-<img src="https://cdn.rawgit.com/jmlien/polynet/afc41117/nets/heart/Heart-214_cut.svg" width="800" alt="net">
+<img src="https://cdn.rawgit.com/jmlien/polynet/afc4117/nets/heart/Heart-214_cut.svg" width="800" alt="net">
