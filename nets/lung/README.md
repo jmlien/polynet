@@ -1,6 +1,6 @@
 # Lung
 
-<img src="./Lung.png" height="350" alt="model"> <img src="./Lung-paper-model.jpg" height="350" alt="paper craft">
+<img src="./Lung.png" height="350" alt="model"> <img src="./Lung-paper-model.JPG" height="350" alt="paper craft">
 
 ## Information
 

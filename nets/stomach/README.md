@@ -1,6 +1,6 @@
 # Stomach
 
-<img src="./Stomach.png" height="350" alt="model"> <img src="./Stomach-paper-model.jpg" height="350" alt="paper craft">
+<img src="./Stomach.png" height="350" alt="model"> <img src="./Stomach-paper-model.JPG" height="350" alt="paper craft">
 
 ## Information
 

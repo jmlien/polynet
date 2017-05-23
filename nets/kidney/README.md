@@ -1,6 +1,6 @@
 # Kidney
 
-<img src="./Kideny.png" height="350" alt="model"> <img src="./Kidney-paper-model.jpg" height="350" alt="paper craft">
+<img src="./Kidney.png" height="350" alt="model"> <img src="./Kidney-paper-model.JPG" height="350" alt="paper craft">
 
 ## Information
 
@@ -25,4 +25,4 @@
 
 ## The net
 
-<img src="https://cdn.rawgit.com/jmlien/polynet/809d76a/nets/kidney/Kidney-172_cut.svg" width="800" alt="net">
+<img src="https://cdn.rawgit.com/jmlien/polynet/87872c2/nets/kidney/Kidney-172_cut.svg" width="800" alt="net">
