@@ -10,7 +10,7 @@
 
 ## Folding Instructions
 
-0. Download [the net](./Brain-210_cut.svg) or [a linearly foldable net](./linear-brain-210/linear-brain-210_cut.svg)
+0. Download [the net](./Brain-210_cut.svg)
 1. Print and then cut the net. We use [cricut](https://home.cricut.com/) in all of our examples.
 2. Score the crease lines. 
 3. Crease the lines into moutain and valley folds. 
@@ -25,7 +25,3 @@
 ## The net
 
 <img src="https://cdn.rawgit.com/jmlien/polynet/fd781e9/nets/brain/Brain-210_cut.svg" width="800" alt="net">
-
-## A linearly foldable net
-
-<img src="https://cdn.rawgit.com/jmlien/polynet/140dca12/nets/brain/linear-brain-210/linear-brain-210_cut.svg" width="800" alt="net">
