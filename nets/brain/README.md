@@ -25,3 +25,7 @@
 ## The net
 
 <img src="https://cdn.rawgit.com/jmlien/polynet/fd781e9/nets/brain/Brain-210_cut.svg" width="800" alt="net">
+
+## The linearly foldable net
+
+<img src="https://cdn.rawgit.com/jmlien/polynet/fd781e9/nets/brain/Brain-210_cut.svg" width="800" alt="net">
