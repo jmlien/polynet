@@ -22,6 +22,6 @@
 6. To tape or glue the remaining cut edges by matching the cut edges marked with a short stroke. 
    * Two matching cut edges will have the short strokes coincide along the edge. 
 
-## The net
+## The net (note: this net is linearly foldable) 
 
 <img src="https://cdn.rawgit.com/jmlien/polynet/fd781e9/nets/brain/Brain-210_cut.svg" width="800" alt="net">
