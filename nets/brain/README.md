@@ -28,4 +28,4 @@
 
 ## The linearly foldable net
 
-<img src="https://cdn.rawgit.com/jmlien/polynet/fd781e9/nets/brain/Brain-210_cut.svg" width="800" alt="net">
+<img src="https://cdn.rawgit.com/jmlien/polynet/140dca12/nets/brain/linear-brain-210/linear-brain-210_cut.svg" width="800" alt="net">
